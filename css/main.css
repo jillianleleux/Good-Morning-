@@ -1,0 +1,38 @@
+/* Place CSS styles here */
+body {
+    color:rgb(29, 96, 29);
+    background-color:rgb(185, 178, 119);
+      
+}
+.egg-image-container{
+    position: relative;
+    
+}
+.egg{
+    width: 200px;
+    position:absolute;
+    top:0;
+    left:0;
+    width:100px;
+    z-index: 1;
+
+}
+.element-2{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    z-index: 2; 
+}
+.element-3 {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    z-index: 0;
+  }
+
