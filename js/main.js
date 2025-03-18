@@ -1,5 +1,5 @@
 // JS scripts placed here
-const video = document.querySelector(".hover-video");
+const video = document.querySelector(".Pancake-video");
 
 video.addEventListener("mouseover", () => {
   video.play();
