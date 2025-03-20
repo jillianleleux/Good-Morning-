@@ -9,3 +9,5 @@ video.addEventListener("mouseout", () => {
   video.pause();
   video.currentTime = 0; // Reset to the beginning when hover stops
 });
+
+
