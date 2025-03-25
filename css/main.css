@@ -13,7 +13,7 @@ body {
 z-index: 2;
 }
 .vase{
-    position:relative;
+    position:absolute;
     height: 300px; 
     z-index: 1;
 }
@@ -29,18 +29,27 @@ z-index: 2;
     }
 }
  .EggBacon{ 
-    position: relative;
+    position: absolute;
     display: inline-flex;
     height: 380px;
     top: 250px;
     z-index: 1;
 }
-.coffee{
-    position: relative;
+.sizzle{
+    position: absolute;
     display: inline-flex;
-    height: 200px;
-    top: 100px;
+    height: 380px;
+    top: 4px;
     z-index: 1;
+
+}
+.coffee{
+    position: absolute;
+    display: inline-flex;
+    height: 270px;
+    top: 30px;
+    right: 200px;
+    z-index: 2;
     transition: transform 0.3s ease-in-out, drop-shadow 0.3s ease-in-out;
 }
 
