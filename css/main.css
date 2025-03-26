@@ -67,7 +67,7 @@ z-index: 2;
 }
 .Pancake-video{
     position: absolute;
-    right:0;
+    right:-30px;
     top:100%;
     transform: translateY(-50%);
    height: 500px;
