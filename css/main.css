@@ -39,14 +39,14 @@ z-index: 2;
  .EggBacon{ 
     position: absolute;
     display: inline-flex;
-    height: 380px;
+    height: 500px;
     top: 400px;
     z-index: 1;
 }
 .sizzle{
     position: absolute;
     display: inline-flex;
-    height: 380px;
+    height: 500px;
     top: 4px;
     z-index: 1;
     animation: sizzle 0.3s infinite alternate ease-in-out;
@@ -68,6 +68,21 @@ z-index: 2;
         filter: blur(0px) brightness(1);
     }
 }
+.butter{
+    position:absolute;
+    height: 220px;
+    top: 550px;
+    right: 240px;
+    z-index:2;
+
+}
+.knife{
+    position: absolute;
+    height: 126px;
+    top: 520px;
+    right: 430px;
+    z-index: 2;
+}
 .coffee{
     position: absolute;
     display: inline-flex;
@@ -87,7 +102,7 @@ z-index: 2;
     right:-30px;
     top:100%;
     transform: translateY(-50%);
-   height: 500px;
+   height: 680px;
    width:auto;
    z-index: 0;
 }
