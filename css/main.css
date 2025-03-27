@@ -14,15 +14,15 @@ body {
 .rose{
     transform-origin: 25% 36%;
     position:absolute;
-    height: 460px;
-    top:1px;
+    height: 590px;
+    top:-54px;
     left:18px;
 z-index: 2;
 }
 .vase{
     position:absolute;
-    height: 510px; 
-    top:-30px;
+    height: 630px; 
+    top: -99px;
     z-index: 1;
 }
 .rose:hover{
@@ -40,7 +40,7 @@ z-index: 2;
     position: absolute;
     display: inline-flex;
     height: 500px;
-    top: 400px;
+    top: 300px;
     z-index: 1;
 }
 .sizzle{
@@ -68,6 +68,13 @@ z-index: 2;
         filter: blur(0px) brightness(1);
     }
 }
+.paper{
+    position:absolute;
+    height:600px;
+    top: 790px;
+    left: 100px;
+    z-index:2;
+}
 .butter{
     position:absolute;
     height: 220px;
@@ -86,7 +93,7 @@ z-index: 2;
 .coffee{
     position: absolute;
     display: inline-flex;
-    height: 290px;
+    height: 300px;
     top: 140px;
     right: 200px;
     z-index: 2;
