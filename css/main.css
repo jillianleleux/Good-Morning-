@@ -103,10 +103,10 @@ z-index: 2;
     filter: drop-shadow(15px 15px 20px rgba(0, 0, 0, 0.3)); /* Adds a floating shadow */
 }
 .Pancake-video{
-    margin:938px;
+    margin:933px;
     position: absolute;
     top:798px;
-   height: 720px;
+   height: 745px;
    width:auto;
    z-index: 0;
 }
