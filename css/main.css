@@ -70,9 +70,9 @@ z-index: 2;
 }
 .paper{
     position:absolute;
-    height:600px;
-    top: 269px;
-    left: 233px;
+    height:549px;
+    top: 214px;
+    left: 291px;
     z-index:2;
 }
 .butter{
@@ -92,7 +92,7 @@ z-index: 2;
     position: absolute;
     display: inline-flex;
     height: 502px;
-    top: -332px;
+    top: -459px;
     margin:661px;
     z-index: 2;
     transition: transform 0.3s ease-in-out, drop-shadow 0.3s ease-in-out;
