@@ -1,11 +1,10 @@
 /* Place CSS styles here */
+
 body {
     color:rgb(29, 96, 29);
     background-color:rgb(194 189 118);
-      
+
 }
-
-
 .backsplash-bg {
     height:600px;
     background-image: url(../img/backsplash.PNG);
@@ -80,7 +79,6 @@ z-index: 2;
     position:absolute;
     height: 220px;
     top: 550px;
-    right: 240px;
     z-index:2;
 
 }
@@ -88,7 +86,6 @@ z-index: 2;
     position: absolute;
     height: 126px;
     top: 520px;
-    right: 430px;
     z-index: 2;
 }
 .coffee{
@@ -96,7 +93,6 @@ z-index: 2;
     display: inline-flex;
     height: 300px;
     top: 140px;
-    right: 200px;
     z-index: 2;
     transition: transform 0.3s ease-in-out, drop-shadow 0.3s ease-in-out;
 }
@@ -107,9 +103,11 @@ z-index: 2;
 }
 .Pancake-video{
     position: absolute;
-    right:-30px;
-    top:100%;
+    top:1200px;
    height: 680px;
    width:auto;
    z-index: 0;
 }
+
+
+
