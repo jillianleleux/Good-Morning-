@@ -98,7 +98,20 @@ z-index: 2;
     z-index: 2;
     transition: transform 0.3s ease-in-out, drop-shadow 0.3s ease-in-out;
 }
+.spatula{
+    position: absolute;
+    height: 400px;
+    top: 358px;
+    margin: 796px;
+}
 
+.berries{
+    position: absolute;
+    height: 450px;
+    top: 2086px;
+    margin:-23px;
+
+}
 .coffee:hover {
     transform: translateY(-10px); /* Moves the coffee up slightly */
     filter: drop-shadow(15px 15px 20px rgba(0, 0, 0, 0.3)); /* Adds a floating shadow */
