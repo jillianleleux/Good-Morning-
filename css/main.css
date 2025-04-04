@@ -77,15 +77,15 @@ z-index: 2;
 }
 .butter{
     position:absolute;
-    height: 257px;
-    top: 1299px;
+    height: 265px;
+    top: 1265px;
     z-index:2;
     margin:501px;
 }
 .knife{
     position: absolute;
-    height: 166px;
-    top: 1173px;
+    height: 188px;
+    top: 1175px;
     z-index: 2;
     margin:746px;
 }
@@ -114,8 +114,8 @@ z-index: 2;
 }
 .berries{
     position: absolute;
-    height: 450px;
-    top: 2086px;
+    height: 475px;
+    top: 1996px;
     margin:-23px;
 
 }
@@ -124,10 +124,10 @@ z-index: 2;
     filter: drop-shadow(15px 15px 20px rgba(0, 0, 0, 0.3)); /* Adds a floating shadow */
 }
 .Pancake-video{
-    margin:933px;
+    margin:911px;
     position: absolute;
     top:798px;
-   height: 745px;
+   height: 780px;
    width:auto;
    z-index: 0;
 }
