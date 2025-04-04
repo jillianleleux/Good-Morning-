@@ -1,5 +1,14 @@
 /* Place CSS styles here */
-
+@media (max-width: 768px) {
+    .Pancake-video {
+        margin:911px;
+        position: absolute;
+        top:798px;
+       height: 780px;
+       width:auto;
+       z-index: 0;
+    }
+}
 body {
     color:rgb(29, 96, 29);
     background-color:rgb(194 189 118);
